@@ -1,5 +1,6 @@
 # learning-html
 We are going to learn html in this repository.
+
 These are the details you can find:
 - Homepage
 - List of all HTML rules
@@ -7,4 +8,5 @@ These are the details you can find:
   - Attribute rules in detail
 - List of all the HTML5 elements
 - Tips for writing HTML
+
 ##[Link](https://tsikitsiky.github.io/learning-html/.)
