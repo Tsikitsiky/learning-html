@@ -9,4 +9,6 @@ These are the details you can find:
 - List of all the HTML5 elements
 - Tips for writing HTML
 
-## [Link](https://tsikitsiky.github.io/learning-html/.)
+We work on master and publish on
+
+ [tsikitsiky.github.io/learning-html](https://tsikitsiky.github.io/learning-html/)
